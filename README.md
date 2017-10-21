@@ -1,6 +1,6 @@
 ## Welcome to my page
 
-Here you can see more information about me:
+Here you can find more information about me:
 
 - [CV](https://dan-amorim.github.io/CV.pdf)
 - [LinkedIn](https://linkedin.com/in/daniel-amorim-de-oliveira) 
