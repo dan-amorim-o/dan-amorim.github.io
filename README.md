@@ -1,4 +1,4 @@
-## Welcome to Daniel Amorim de Oliveira page
+## Welcome to my page
 
 You can see more information about me here:
 
