@@ -2,7 +2,7 @@
 
 Here you can find more information about me:
 
-- [Resume/CV](https://dan-amorim.github.io/CV.pdf)
+- [Resume/CV](https://github.com/dan-amorim/dan-amorim.github.io/blob/master/CV.pdf)
 - [LinkedIn](https://linkedin.com/in/daniel-amorim-de-oliveira) 
 - [GitHub](https://github.com/dan-amorim)
 - [Kaggle](https://www.kaggle.com/danamorim)
