@@ -1,2 +1,6 @@
-theme: jekyll-theme-slate
 title: Daniel Amorim de Oliveira
+description: Product analytics leadership, experimentation, and applied AI.
+url: https://danielamorim.com
+exclude:
+  - README.md
+  - readme_original.md
