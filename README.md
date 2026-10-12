@@ -1,9 +1,11 @@
-## Welcome to my page
+# Daniel Amorim de Oliveira
 
-Here you can find more information about me:
+Personal website focused on product analytics leadership, experimentation, and applied AI.
 
-- [Resume/CV](https://danielamorim.com/Resume_Daniel_Amorim.pdf)
-- [LinkedIn](https://linkedin.com/in/daniel-amorim-de-oliveira) 
-- [GitHub](https://github.com/dan-amorim-o)
+- Website: https://danielamorim.com
+- CV: https://danielamorim.com/Resume_Daniel_Amorim.pdf
+- LinkedIn: https://linkedin.com/in/daniel-amorim-de-oliveira
 
-If you want to contact me, please [mail](mailto:dan.amorim.o@gmail.com) me.
+The homepage uses `index.html` and `styles.css`, hosted on GitHub Pages. The downloadable CV is `Resume_Daniel_Amorim.pdf`.
+
+To preview locally, run `python3 -m http.server 8000` from the repository directory and open http://localhost:8000.
