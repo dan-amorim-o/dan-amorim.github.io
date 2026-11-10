@@ -1,0 +1,18 @@
+# Daniel Amorim de Oliveira
+
+> Daniel Amorim is a product analytics and applied AI leader based in Lisbon, Portugal. He leads Core Product Analytics at Tripadvisor. His formal title is Product Data Analysis Manager.
+
+His work combines international team leadership, experimentation, SQL, Python, Snowflake, and reusable AI analytics workflows. Previous employers include OLX Group, Uber, Itaú Unibanco, Banco Votorantim, and EY.
+
+## Profile and selected work
+
+- [Professional profile](https://danielamorim.com/): Current experience, leadership approach, education, and contact details.
+- [AI analytics toolkit](https://danielamorim.com/#ai-analytics-toolkit): Reusable workflows for SQL, dashboards, experiment readouts, and metric diagnostics.
+- [AI product measurement](https://danielamorim.com/#ai-product-measurement): Customer behaviour, experimentation, and AI travel planning.
+- [Analytics leadership](https://danielamorim.com/#analytics-leadership): Scaling a team from 3 to 10 analysts across three countries.
+- [CV](https://danielamorim.com/Resume_Daniel_Amorim.pdf): Full career history.
+
+## Professional profiles
+
+- [LinkedIn](https://www.linkedin.com/in/daniel-amorim-de-oliveira)
+- [GitHub](https://github.com/dan-amorim-o)

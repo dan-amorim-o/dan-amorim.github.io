@@ -32,3 +32,37 @@ a:focus-visible{outline:3px solid var(--accent);outline-offset:5px}
 .skip-link{position:absolute;left:16px;top:-80px;background:var(--button);color:var(--onbutton)!important;padding:12px;z-index:1}
 .skip-link:focus{top:16px}
 @media(max-width:700px){.profile{padding:24px}.brand{font-size:19px}.hero{padding-top:40px}h1{font-size:clamp(36px,8vw,48px);letter-spacing:-1.4px}.intro{font-size:16px}.proof{grid-template-columns:1fr;gap:24px}.value{font-size:32px}.metric-label{max-width:none;font-size:14px}.lower{grid-template-columns:1fr;gap:24px}.footer{flex-wrap:wrap;overflow-wrap:anywhere}.job{flex-wrap:wrap}.action{min-height:44px}.top{gap:0}}
+
+html{scroll-padding-top:24px}
+.hero{max-width:890px}
+.hero h1{font-size:clamp(38px,4.5vw,58px);max-width:880px}
+.hero .intro{max-width:680px;margin-bottom:16px}
+.location{margin:0 0 24px;font-size:13px}
+.nav a{padding:8px 0}
+.metric-label{max-width:285px}
+.work{padding:52px 0 0}
+.work>h2,.contact h2{font-family:Georgia,serif;font-size:32px;font-weight:400;line-height:1.2;letter-spacing:-.7px}
+.section-intro{color:var(--sub);max-width:630px;margin:0 0 32px}
+.case{display:grid;grid-template-columns:1fr 1.8fr;gap:48px;border-top:1px solid var(--line);padding:32px 0}
+.case-heading .eyebrow{margin-bottom:12px}
+.case-heading h3{font-family:Georgia,serif;font-size:25px;line-height:1.2;font-weight:400;letter-spacing:-.5px}
+.case-tags{font-size:12px;color:var(--sub);margin:14px 0 0}
+.case-body{margin:0}
+.case-body>div+div{margin-top:17px}
+.case-body dt{font-size:12px;font-weight:600;margin:0 0 4px;color:var(--ink)}
+.case-body dd{margin:0;color:var(--sub);font-size:14px}
+.lower{border-top:1px solid var(--line);padding-top:44px}
+.lower .background{border-top:1px solid var(--line);padding-top:18px;margin-top:24px}
+.job{display:block;padding:16px 0;position:relative}
+.job h3{font-size:14px;margin:0 0 3px}
+.job p{margin:0 0 4px;font-size:13px}
+.job .dates{font-size:11px;margin:7px 0 0}
+.job time{font-size:inherit;padding:0}
+.earlier{margin-top:18px!important}
+.text-link{text-decoration:underline!important;text-underline-offset:3px}
+.contact{border-top:1px solid var(--line);padding:38px 0 44px}
+.contact p:not(.eyebrow){color:var(--sub);max-width:650px;margin:0 0 22px}
+.contact .action{max-width:100%;overflow-wrap:anywhere}
+.footer nav{display:flex;gap:20px;flex-wrap:wrap}
+@media(max-width:700px){.top{align-items:flex-start;flex-direction:column;gap:12px}.nav{gap:22px}.hero h1{font-size:clamp(35px,7.5vw,48px)}.case{grid-template-columns:1fr;gap:20px;padding:28px 0}.work{padding-top:36px}.work>h2,.contact h2{font-size:28px}.case-heading h3{font-size:24px}.case-tags{margin-top:10px}.case-body dd{font-size:14px}.lower{gap:32px}.proof{grid-template-columns:repeat(3,1fr);gap:18px}.value{font-size:26px}.metric-label{font-size:12px}.footer{gap:16px}.brand{font-size:18px}}
+@media(max-width:480px){.proof{grid-template-columns:1fr;gap:24px}.metric-label{font-size:14px;max-width:none}.value{font-size:32px}.actions{gap:10px}.action{padding:12px 16px}.contact .action{font-size:12px}.hero h1{font-size:36px}}
